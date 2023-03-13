@@ -3,6 +3,8 @@
 int main()
 {
     int a[60], n, i, j, k = 0, f = 0, l = 0, repeat[60], unique[60];
+    printf("NAME :Naman Mishra \t Roll No.: 2100320120113\n");
+    
     printf("THE SIZE OF ARRAY:\n");
     scanf("%d", &n);
     printf("THE ELEMENTS OF ARRAY:\n");

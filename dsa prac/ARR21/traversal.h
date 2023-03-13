@@ -13,3 +13,4 @@ void show(int arr[],int s){
         printf("%d ",arr[k]);
     }
 }
+

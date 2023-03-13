@@ -1,9 +1,13 @@
 #include<stdio.h>
-#include"traversal.h"
+#include "traversal.h"
+
 int main()
-    {
-       int ar[10];
-       int s=10,flag=0;
+    { 
+      int n;
+    printf("Enter size of array :");
+    scanf("%d",&n);
+       int ar[n];
+       int s=n,flag=0;
        int count=s;
        int v;
         printf(" Name:-NAMAN MISHRA\n");
